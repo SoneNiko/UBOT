@@ -19,20 +19,21 @@ Utils Bot. UBOT. User discretion advised. U-Boot is the German word for Submarin
 Run open a terminal / cmd and run:
 ###### Clone the repository
 ```shell
-git clone https://github.com/<github username>/<repository name>.git
+git clone https://github.com/SoneNiko/UBOT.git
 ```
 
 ###### Move inside the repository
 ```shell
-cd <repository name>/bot
+cd UBOT/bot
 ```
-###### Use the Golang tool to build the code
-```shell
-go build -o bot
-```
+
+###### build
+
+
+
 ###### Execute the code
 ```shell
-./bot -t <bot token>
+./UBOT
 ```
 
 ---
